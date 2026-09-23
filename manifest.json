@@ -4,6 +4,6 @@
   "website_url": "https://github.com/7Nicc/Valheim-ConfigurableTrophies",
   "description": "Allows you to configure creature trophy drop rates in Valheim to a custom percentage (defaults to 50%).",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2202"
+    "denikson-BepInExPack_Valheim-5.4.2350"
   ]
 }
