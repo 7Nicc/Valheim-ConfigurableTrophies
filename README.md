@@ -1,6 +1,8 @@
 # Configurable Trophies
 
 A lightweight Valheim mod created by **7Nicc** that allows you to easily adjust or increase the drop rates of creature trophies across all biomes.
+Made for use in Valheim 1.0, not sure if I'll update any further.
+Thanks for checking out my mod! Made using Gemini.
 
 ## Features
 - **Custom Drop Rates:** Overrides default vanilla trophy drop chances to a configurable percentage.
